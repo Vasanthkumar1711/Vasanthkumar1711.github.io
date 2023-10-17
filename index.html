@@ -269,7 +269,7 @@ framework.
         <div class="row">
           <div class="col-md-6 col-lg-4">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <div class="icon"><i class="bi bi-currency-bitcoin"></i></div>
               <h4 class="title"><a href="">Blockchain Solutions: </a></h4>
               <p class="description">Revolutionize Trust and Security</p>
             </div>
@@ -277,7 +277,7 @@ framework.
 
           <div class="col-md-6 col-lg-4">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="bx bx-file"></i></div>
+              <div class="icon"><i class="bi bi-browser-edge"></i></div>
               <h4 class="title"><a href="">Web Development: </a></h4>
               <p class="description">Visually Stunning, Functionally Seamless</p>
             </div>
@@ -285,7 +285,7 @@ framework.
 
           <div class="col-md-6 col-lg-4 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <div class="icon"><i class="bi bi-android2"></i></div>
               <h4 class="title"><a href="">App Development:</a></h4>
               <p class="description">Engage Your Audience, Anywhere</p>
             </div>
@@ -300,7 +300,7 @@ framework.
         <div class="row">
           <div class="col-md-6 col-lg-4 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="500">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <div class="icon"><i class="bi bi-camera2"></i></div>
               <h4 class="title"><a href="">Design Creatives: </a></h4>
               <p class="description">Crafting Visual Brilliance</p>
             </div>
@@ -308,7 +308,7 @@ framework.
 
           <div class="col-md-6 col-lg-4 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <div class="icon"><i class="bx bx-world"></i></div>
+              <div class="icon"><i class="bi bi-file-richtext-fill"></i></div>
               <h4 class="title"><a href="">Digital Marketing:</a></h4>
               <p class="description">Boost Your Online Visibility</p>
             </div>
@@ -316,7 +316,7 @@ framework.
 
           <div class="col-md-6 col-lg-4 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
-              <div class="icon"><i class="bx bx-file"></i></div>
+              <div class="icon"><i class="bi bi-fingerprint"></i></div>
               <h4 class="title"><a href="">Cybersecurity:</a></h4>
               <p class="description">Shielding Your Digital Fortresses </p>
             </div>
