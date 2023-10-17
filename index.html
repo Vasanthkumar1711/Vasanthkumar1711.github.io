@@ -374,7 +374,7 @@ framework.
       </div>
     </section><!-- End More Services Section -->
 
-    <!-- ======= Features Section ======= -->
+    <!-- ======= Features Section ======= 
     <section id="features" class="features">
       <div class="container">
 
@@ -708,7 +708,7 @@ framework.
       </div>
     </section><!-- End Portfolio Section -->
 
-    <!-- ======= Team Section ======= 
+    <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
       <div class="container">
 
@@ -731,32 +731,14 @@ framework.
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>  
+                <h4>Prasanna Venkatesh JS</h4>
+                <span>Co-Founder & CEO</span>  
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
                 <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                 <div class="social">
@@ -767,16 +749,16 @@ framework.
                 </div>
               </div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
+                <h4>Vasanth Kumar AM</h4>
+                <span>Co-Founder & CTO</span>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -785,8 +767,26 @@ framework.
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
+                <h4>Raghul Karthik K</h4>
+                <span>Co-Founder & COO</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/team/team.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Heisenberg</h4>
+                <span>Say My Name</span>
               </div>
             </div>
           </div>
