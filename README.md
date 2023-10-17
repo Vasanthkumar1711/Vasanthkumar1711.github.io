@@ -99,9 +99,11 @@
           <h4 data-aos="fade-up" data-aos-delay="400">At Quantum Pixel Solutions, We bring cutting-edge
             technology, Creative Design and Digital Marketing
             Expertise together to empower businesses in the everevolving digital landscape</h4>
+          <!-- 
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
+            -->
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
           <!--<img src="assets/img/hero-img3.png" class="img-fluid animated" alt=""> -->
