@@ -60,7 +60,7 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li> 
+         <li><a class="nav-link scrollto" href="#team">Team</a></li> 
          <!-- <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>-->
           <!--<li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -99,14 +99,15 @@
           <h4 data-aos="fade-up" data-aos-delay="400">At Quantum Pixel Solutions, We bring cutting-edge
             technology, Creative Design and Digital Marketing
             Expertise together to empower businesses in the everevolving digital landscape</h4>
-          <!-- 
-          <div data-aos="fade-up" data-aos-delay="800">
+         <!--
+            <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
-            -->
+          -->
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
           <!--<img src="assets/img/hero-img3.png" class="img-fluid animated" alt=""> -->
+          
           <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
           <dotlottie-player src="https://lottie.host/862adf94-7ac4-4b9a-a7ad-609228882b7b/p5TT04KCHZ.json" background="transparent" speed="1" style="width: 500px; height: 500px" direction="1" mode="normal" loop autoplay></dotlottie-player>
         </div>
@@ -985,7 +986,7 @@ framework.
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="contact-about">
               <h3>Quantum Pixel</h3>
-              <p>Cras fermentum odio eu feugiat. Justo eget magna fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+              <p>Tech Innovators  | Blockchain | Cybersecurity | Web & App Dev | Digital Marketing</p>
               <div class="social-links">
                 <a href="https://twitter.com/quantum_pixel_?t=yUAJoTciso8Ap9ZBE1vXIA&s=08" class="twitter"><i class="bi bi-twitter"></i></a>
                 <a href="https://www.facebook.com/profile.php?id=61552255101887&mibextid=ZbWKwL" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -999,17 +1000,23 @@ framework.
             <div class="info">
               <div>
                 <i class="ri-map-pin-line"></i>
-                <p>A108 Adam Street<br>New York, NY 535022</p>
+                <p>VelTech TBI 
+                  <br>#42 Avadi-Vel Tech Road, Chennai, Tamil Nadu 600062</p>
               </div>
 
               <div>
                 <i class="ri-mail-send-line"></i>
-                <p>info@example.com</p>
+                <p>info@quantumpixelsolutions.com</p>
               </div>
 
               <div>
                 <i class="ri-phone-line"></i>
-                <p>+1 5589 55488 55s</p>
+                <p>+91 8015732928</p>
+              </div>
+
+              <div>
+                <i class="bi bi-whatsapp"></i>
+                <p>+91 8072613918 /+91 8248081101</p>
               </div>
 
             </div>
@@ -1042,6 +1049,14 @@ framework.
 
       </div>
     </section><!-- End Contact Section -->
+
+    <!--<section>
+      <div class="container">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15539.178620664465!2d80.09221231529395!3d13.17534343749312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d82ff11a9cf%3A0x3304dc9aed0f444a!2sVel%20Tech%20Rangarajan%20Dr.Sagunthala%20R%26D%20Institute%20of%20Science%20and%20Technology!5e0!3m2!1sen!2sin!4v1702487237714!5m2!1sen!2sin" 
+                width="1300" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+      </div>
+    </section>-->
 
   </main><!-- End #main -->
 
