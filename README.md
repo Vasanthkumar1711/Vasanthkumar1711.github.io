@@ -56,16 +56,16 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="index.html">Home</a></li>
-          <li><a class="nav-link scrollto" href="About.html">About</a></li>
-          <li><a class="nav-link scrollto" href="services.html">Services</a></li>
-          <li><a class="nav-link scrollto " href="portfolio.html">Portfolio</a></li>
-         <li><a class="nav-link scrollto" href="team.html">Team</a></li> 
+          <li><a class="nav-link scrollto active" href="1_index.html">Home</a></li>
+          <li><a class="nav-link scrollto" href="2_About.html">About</a></li>
+         <!-- <li><a class="nav-link scrollto" href="services.html">Services</a></li>-->
+          <!--<li><a class="nav-link scrollto " href="portfolio.html">Portfolio</a></li>-->
+         <li><a class="nav-link scrollto" href="3_team.html">Team</a></li> 
          <!-- <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>-->
-          <!--<li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="4_services.html"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+              <!--<li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
                   <li><a href="#">Deep Drop Down 2</a></li>
@@ -73,12 +73,12 @@
                   <li><a href="#">Deep Drop Down 4</a></li>
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
-              </li>
+              </li>-->
               <li><a href="#">Drop Down 2</a></li>
               <li><a href="#">Drop Down 3</a></li>
               <li><a href="#">Drop Down 4</a></li>
             </ul>
-          </li>-->
+          </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <!--<li><a class="getstarted scrollto" href="#about">Get Started</a></li> -->
         </ul>
@@ -158,42 +158,21 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>About Us</h2>
+          <h2>Quick Snapshot About us</h2>
         </div>
 
         <div class="row content">
           <div class="col-lg-12" data-aos="fade-up" data-aos-delay="150">
-            <p>
-              Welcome to Quantum Pixel Solutions!
-
-At Quantum Pixel Solutions, we're passionate about pushing the boundaries of innovation in the digital world. 
-Our journey began with a vision to provide businesses with cutting-edge technology, creative design, and effective digital marketing solutions. 
-As we've grown, we've continued to hold true to our core values of excellence, transparency, and a commitment to our clients' success.
-            </p>
-            <p>
-              Our objective is to catalyze the growth of your business, whether you're
-building from the ground up or optimizing an already established
-framework.
-            </p>
+            
             <ul>
-              <li><i class="ri-check-double-line"></i> <b>Quantum-Powered Technology</b>: We are among the pioneers in harnessing quantum technology to offer solutions that are faster, more secure, and more efficient than traditional methods.
+              <li><i class="ri-check-double-line"></i> We specialize in delivering top-tier IT services to our clients by harnessing cutting-edge technologies, all while maintaining budget-friendly pricing.
               </li>
-              <li><i class="ri-check-double-line"></i> <b>Tailored Excellence</b>: We don't believe in one-size-fits-all solutions. Our dedicated team takes the time to understand your unique needs and crafts customized solutions that align perfectly with your goals.
+              <li><i class="ri-check-double-line"></i> Our objective is to catalyze the growth of your business, whether you're building from the ground up or optimizing an already established framework.
               </li>
-              <li><i class="ri-check-double-line"></i> <b>Proven Excellence</b>: Our track record of successful projects and satisfied clients demonstrates our commitment to delivering results that exceed expectations.
-              </li>
-              <li><i class="ri-check-double-line"></i> <b>Security and Trust</b>: Specializing in blockchain solutions, we enhance trust and transparency in digital transactions, ensuring your data's safety.
+              <li><i class="ri-check-double-line"></i> Our secret weapon? We're "chill" geeks – so cool that our servers wear sunglasses. We remain calm and collected in every situation, which means we're always ready to answer your queries with a smile and provide you with outstanding service.
               </li>
             </ul>
-            <p>Our secret weapon? We're "chill" geeks – so cool that our servers wear
-              sunglasses. We remain calm and collected in every situation, which means
-              we're always ready to answer your queries with a smile and provide you
-              with outstanding service.</p>
-              <p>
-                Our journey is ongoing, and we invite you to be a part of it. Whether you're a client, a partner,
-                 or simply someone interested in digital innovation, we're excited to connect with you. Explore our services,
-                 contact us for inquiries, or follow us on social media to stay updated on the latest digital trends.
-              </p>
+            
           </div>
           
           <!--<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
@@ -330,7 +309,7 @@ framework.
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= More Services Section ======= -->
+    <!-- ======= More Services Section ======= 
     <section id="more-services" class="more-services">
       <div class="container">
 
@@ -479,12 +458,12 @@ framework.
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                   <!-- <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">-->
+                  <h3>Karthick A</h3>
+                  <h4>Manvaasam</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    I approached Quantum Pixel Solutions for Digital Marketing service. Their Digital Marketing services provide best results for my company to reach the right audience, their tailored brand Strategy brings colors to my brand. Excellent one 🙌 
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -558,7 +537,7 @@ framework.
       </div>
     </section><!-- End Testimonials Section -->
 
-    <!-- ======= Portfolio Section ======= -->
+    <!-- ======= Portfolio Section ======= 
     <section id="portfolio" class="portfolio">
       <div class="container">
 
@@ -709,9 +688,9 @@ framework.
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section> End Portfolio Section -->
 
-    <!-- ======= Team Section ======= -->
+    <!-- ======= Team Section ======= 
     <section id="team" class="team section-bg">
       <div class="container">
 
@@ -797,7 +776,7 @@ framework.
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section> End Team Section -->
 
      <!-- ======= Pricing Section ======= -->
      <!--<section id="pricing" class="pricing">
@@ -866,112 +845,7 @@ framework.
       </div>
     </section> End Pricing Section -->
 
-    <!-- ======= F.A.Q Section ======= -->
-    <section id="faq" class="faq">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Frequently Asked Questions</h2>
-        </div>
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4><b>What services does Quantum Pixel Solutions offer?</b>
-            </h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Quantum Pixel Solutions specializes in Blockchain Solutions, Web Development, App Development, Digital Marketing, Cybersecurity and Design Creatives.            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4><b> What makes Quantum Pixel Solutions unique?</b>
-            </h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              We harness the power of quantum technology to provide faster, more secure, and efficient solutions, particularly in our Blockchain Services.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4><b>Can you provide custom web and app development solutions tailored to our specific needs?</b>
-            </h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Absolutely. We excel in providing custom solutions that align perfectly with your unique requirements and goals.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4> <b>How does Quantum Pixel Solutions ensure the security of digital transactions through Blockchain Solutions?</b>
-
-            </h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Our blockchain solutions focus on tamper-proof security and transparency, enhancing trust in digital transactions.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4><b>Can you help with online marketing and increasing our online visibility?</b>
-            </h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Yes, our Digital Marketing services are designed to boost your online presence and engage your target audience with data-driven strategies.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4> <b>Do you offer ongoing website maintenance services?
-            </b>
-
-            </h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              Yes, we provide website maintenance to ensure your online presence stays up to date and operates smoothly.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-        <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-          <div class="col-lg-5">
-            <i class="ri-question-line"></i>
-            <h4> <b>How can I get in touch with Quantum Pixel Solutions to discuss our specific needs?
-
-            </b>
-
-            </h4>
-          </div>
-          <div class="col-lg-7">
-            <p>
-              You can contact us through the provided contact information on our website, and our team will be happy to assist you.
-            </p>
-          </div>
-        </div><!-- End F.A.Q Item-->
-
-      </div>
-    </section><!-- End F.A.Q Section -->
+    
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
