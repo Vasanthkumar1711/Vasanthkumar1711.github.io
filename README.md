@@ -64,7 +64,7 @@
          <!-- <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>-->
           <li class="dropdown"><a href="4_services.html"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
+              <li><a href="5_Blockchain.html">Blockchain Solutions</a></li>
               <!--<li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -74,9 +74,11 @@
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li>-->
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="6_Web.html">Web Development</a></li>
+              <li><a href="7_App.html">App Development</a></li>
+              <li><a href="8_Design.html">Design Creatives</a></li>
+              <li><a href="9_Digital Marketing.html">Digital Marketing</a></li>
+              <li><a href="10_Cybersecurity.html">Cybersecurity</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -252,7 +254,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi bi-currency-bitcoin"></i></div>
-              <h4 class="title"><a href="">Blockchain Solutions: </a></h4>
+              <h4 class="title"><a href="5_Blockchain.html">Blockchain Solutions: </a></h4>
               <p class="description">Revolutionize Trust and Security</p>
             </div>
           </div>
@@ -260,7 +262,7 @@
           <div class="col-md-6 col-lg-4">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi bi-browser-edge"></i></div>
-              <h4 class="title"><a href="">Web Development: </a></h4>
+              <h4 class="title"><a href="6_Web.html">Web Development: </a></h4>
               <p class="description">Visually Stunning, Functionally Seamless</p>
             </div>
           </div>
@@ -268,7 +270,7 @@
           <div class="col-md-6 col-lg-4 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bi bi-android2"></i></div>
-              <h4 class="title"><a href="">App Development:</a></h4>
+              <h4 class="title"><a href="7_App.html">App Development:</a></h4>
               <p class="description">Engage Your Audience, Anywhere</p>
             </div>
           </div>
@@ -283,7 +285,7 @@
           <div class="col-md-6 col-lg-4 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="500">
               <div class="icon"><i class="bi bi-camera2"></i></div>
-              <h4 class="title"><a href="">Design Creatives: </a></h4>
+              <h4 class="title"><a href="8_Design.html">Design Creatives: </a></h4>
               <p class="description">Crafting Visual Brilliance</p>
             </div>
           </div>
@@ -291,7 +293,7 @@
           <div class="col-md-6 col-lg-4 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bi bi-file-richtext-fill"></i></div>
-              <h4 class="title"><a href="">Digital Marketing:</a></h4>
+              <h4 class="title"><a href="9_Digital Marketing.html">Digital Marketing:</a></h4>
               <p class="description">Boost Your Online Visibility</p>
             </div>
           </div>
@@ -299,7 +301,7 @@
           <div class="col-md-6 col-lg-4 ">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
               <div class="icon"><i class="bi bi-fingerprint"></i></div>
-              <h4 class="title"><a href="">Cybersecurity:</a></h4>
+              <h4 class="title"><a href="10_Cybersecurity.html">Cybersecurity:</a></h4>
               <p class="description">Shielding Your Digital Fortresses </p>
             </div>
           </div>
@@ -952,10 +954,10 @@
         </div>
         <div class="col-lg-6">
           <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-            <a href="#hero" class="scrollto">Home</a>
-            <a href="#about" class="scrollto">About</a>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms of Use</a>
+            <a href="1_index.html">Home</a>
+            <a href="2_About.html" class="scrollto">About</a>
+            <a href="11_Privacy Policy.html">Privacy Policy</a>
+            <a href="#">Careers</a>
           </nav>
         </div>
       </div>
