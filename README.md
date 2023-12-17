@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -956,7 +957,7 @@
             <a href="1_index.html">Home</a>
             <a href="2_About.html" class="scrollto">About</a>
             <a href="11_Privacy Policy.html">Privacy Policy</a>
-            <a href="#">Careers</a>
+            <a href="unwanted\the-troll-guest-code\dist\index.html">Careers</a>
           </nav>
         </div>
       </div>
