@@ -1,4 +1,5 @@
 
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -16,9 +17,9 @@
    <link href="assets/img/favicon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="<link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&display=swap" rel="stylesheet">" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@300&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -956,7 +957,7 @@
             <a href="1_index.html">Home</a>
             <a href="2_About.html" class="scrollto">About</a>
             <a href="11_Privacy Policy.html">Privacy Policy</a>
-            <a href="#">Careers</a>
+            <a href="unwanted\the-troll-guest-code\dist\index.html">Careers</a>
           </nav>
         </div>
       </div>
