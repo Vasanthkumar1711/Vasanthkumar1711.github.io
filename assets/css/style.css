@@ -1388,6 +1388,16 @@ section {
   color: #222222;
 }
 
+.contact .contact-about h4 {
+  font-size: 18px;
+  margin: 0 0 10px 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #222222;
+}
+
 .contact .contact-about p {
   font-size: 14px;
   line-height: 24px;
