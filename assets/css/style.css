@@ -1609,3 +1609,10 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+
+.vasa h1 {
+  color: #484848;
+  margin-bottom: 50px;
+  font-size: 24px;
+}
+
